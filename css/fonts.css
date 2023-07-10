@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Gilroy;
+  src: local("Glroy Regular"), local("Glroy-Regular");
+  src: url("../fonts/Gilroy-Regular.woff2") format("woff2"),
+    url("../fonts/Gilroy-Regular.woff") format("woff"), 
+    url("../fonts/Gilroy-Regular.eot") format("eot");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+@font-face {
+  font-family: Gilroy;
+  src: local("Glroy Medium"), local("Glroy-Medium");
+  src: url("../fonts/Gilroy-Medium.woff2") format("woff2"),
+    url("../fonts/Gilroy-Medium.woff") format("woff"), 
+    url("../fonts/Gilroy-Medium.eot") format("eot");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+@font-face {
+  font-family: Gilroy;
+  src: local("Glroy Semibold"), local("Glroy-Semibold");
+  src: url("../fonts/Gilroy-Semibold.woff2") format("woff2"),
+    url("../fonts/Gilroy-Semibold.woff") format("woff"), 
+    url("../fonts/Gilroy-Semibold.eot") format("eot");
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+@font-face {
+  font-family: "Noto Serif";
+  src: local("Noto Serif"), local("Noto-Serif");
+  src: url("../fonts/NotoSerif-Bold.woff2") format("woff2"),
+    url("../fonts/NotoSerif-Bold.woff") format("woff"), 
+    url("../fonts/NotoSerif-Bold.eot") format("eot");
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+}
